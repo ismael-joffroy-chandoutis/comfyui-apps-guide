@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-label="ComfyUI apps">
+  <rect width="1280" height="400" fill="#F2EFE9"/>
+  <g fill="none" stroke="#C9C4BA" stroke-width="1.25">
+    <rect x="860" y="100" width="340" height="170"/><line x1="1100" y1="100" x2="1100" y2="270"/>
+    <rect x="890" y="124" width="184" height="122" stroke-dasharray="3 5"/>
+    <line x1="1116" y1="130" x2="1184" y2="130"/><line x1="1116" y1="152" x2="1184" y2="152"/><line x1="1116" y1="174" x2="1184" y2="174"/><rect x="1116" y="226" width="68" height="24"/>
+    <path d="M900 270 C 900 320, 960 300, 980 340"/><path d="M1000 270 C 1010 330, 1070 300, 1090 345"/><path d="M1150 270 C 1150 320, 1110 310, 1100 345"/>
+  </g>
+  <circle cx="1150" cy="238" r="3.5" fill="#FF4400"/>
+  <text x="96" y="196" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="300" font-size="60" letter-spacing="0.5" fill="#141414">ComfyUI apps</text>
+  <text x="98" y="240" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="300" font-size="21" letter-spacing="0.3" fill="#6E6A62">Build an app, share it, know what stays open</text>
+</svg>
